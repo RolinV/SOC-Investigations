@@ -49,20 +49,6 @@ Investigation of a malicious file detected on an endpoint including hash reputat
 
 ---
 
-## Repository Structure
-SOC-Investigations
-│
-├── Phishing-Investigation
-├── Brute-Force-Attack
-├── Suspicious-Login
-├── Malware-Investigation
-│
-├── templates
-├── docs
-└── images
-
----
-
 ## Purpose
 
 This portfolio is intended to demonstrate **practical SOC analyst investigation skills** and provide examples of structured incident analysis documentation.
