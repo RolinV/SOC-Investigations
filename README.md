@@ -35,6 +35,9 @@ Analysis of abnormal login behavior including geolocation anomalies and impossib
 ### Malware Investigation
 Investigation of a malicious file detected on an endpoint including hash reputation checks and threat intelligence analysis.
 
+### Advanced Phishing Email Analysis
+A methodology-focused article explaining how to identify phishing emails professionally beyond basic URL and attachment checks.
+
 ---
 
 ## Tools & Technologies
